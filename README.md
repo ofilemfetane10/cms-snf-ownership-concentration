@@ -60,17 +60,18 @@ A relatively small number of affiliation entities control a disproportionately l
 
 ## Notes & Limitations
 
-- The analysis uses the first 1,000 records returned by the CMS API.
+- The analysis is based on a ranked extract retrieved via the CMS Open Data API.
+- While not a full census of all records, the approach is well-suited for identifying structural patterns and high-impact entities.
 - Affiliation entity identifiers may represent intermediate ownership layers rather than ultimate beneficial owners.
-- Results are intended to highlight structural patterns rather than provide exhaustive enumeration.
+- Results are intended to highlight system-level structure rather than provide exhaustive enumeration.
 
 ---
 
 ## Tools & Libraries
 
-- Python
-- pandas
-- matplotlib
+- Python  
+- pandas  
+- matplotlib  
 
 ---
 
